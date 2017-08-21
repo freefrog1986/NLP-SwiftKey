@@ -1,0 +1,14 @@
+---
+title: "Milestone Report"
+author: "LiuBo"
+date: "8/2/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Summray
+Setting up AWS First:
+
+*Keywords*: natural language processing, text mining, predictive text analytics, N-Gram, Good-Turing Smoothing, Katz back off
